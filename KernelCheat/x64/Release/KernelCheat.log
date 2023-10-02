@@ -1,0 +1,11 @@
+﻿  Building 'KernelCheat' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\KernelCheat.inf
+  Stamping [Version] section with DriverVer=09/28/2023,13.17.24.396
+  hook.cpp
+C:\Users\Gamer\source\repos\KernelCheat\KernelCheat\hook.cpp(31,39): warning C4100: 'called_param': unreferenced formal parameter
+  main.cpp
+  memory.cpp
+C:\Users\Gamer\source\repos\KernelCheat\KernelCheat\memory.cpp(64,36): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+  Generating Code...
+  KernelCheat.vcxproj -> C:\Users\Gamer\source\repos\KernelCheat\x64\Release\KernelCheat.sys
+  Driver is 'Universal'.
